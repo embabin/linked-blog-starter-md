@@ -35,22 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "5e58c0f500f3baed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "757bceef730708f6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f8c3252c56cf51a",
+  "active": "55b659afef16376b",
   "lastOpenFiles": [
     "Welcome.md"
   ]
